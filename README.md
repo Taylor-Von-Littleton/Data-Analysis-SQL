@@ -1,5 +1,5 @@
 # Deep Learning | Machine Learning
-SQL | Tableu | Python
+Python
 
 # Deep Learning Pytorch Image Segmentation
 ### 1 - Use albumentations library for segmentation dataset
